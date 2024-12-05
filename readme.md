@@ -1,6 +1,6 @@
 # **me/fast-excel**
 
-A lightweight and efficient package for importing and exporting Excel files in PHP applications. Inspired by [FastExcel](https://github.com/rap2hpoutre/fast-excel), this package focuses on simplicity and performance.
+A lightweight and efficient package for importing and exporting Excel files in PHP applications. This package focuses on simplicity and performance.
 
 ---
 
@@ -16,7 +16,7 @@ A lightweight and efficient package for importing and exporting Excel files in P
 
 1. **Install via Composer**:
    ```bash
-   composer require me/fast-excel
+   composer require digitools/fast-excel
    ```
 
 2. **Publish the Package** *(if needed)*:
@@ -109,10 +109,6 @@ To ensure the package is working correctly:
 2. Install dependencies:
    ```bash
    composer install
-   ```
-3. Run the test suite:
-   ```bash
-   vendor/bin/phpunit
    ```
 
 ---
